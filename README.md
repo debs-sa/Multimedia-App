@@ -1,2 +1,2 @@
 # Multimedia App
-  Multimedia App - C# - Windows Form Application
+  Multimedia App - C# - Windows Forms Application
